@@ -1,0 +1,35 @@
+{
+  "weapon_types": [
+    "two-handed sword",
+    "saber",
+    "ranger's knife",
+    "dagger",
+    "two-handed axe",
+    "one-handed axe",
+    "throwing axe",
+    "bow and arrow",
+    "spear",
+    "staff"
+  ],
+  "armor_types": [
+    "cloak",
+    "sun hat",
+    "helm",
+    "hood",
+    "leather vest",
+    "mail vest",
+    "leather bracers",
+    "metal gauntlets",
+    "leather boots",
+    "plate boots",
+    "robe"
+  ],
+  "trinkets":[
+    "quiver",
+    "salt",
+    "iron pan",
+    "brooch",
+    "ring",
+    "chalice"
+  ]
+}
